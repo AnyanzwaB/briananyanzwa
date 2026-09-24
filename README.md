@@ -45,7 +45,7 @@ I am actively executing a structured 5-phase roadmap to master Data and AI Engin
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** https://www.linkedin.com/in/brian-anyanzwa-69809953
+- **Email:** mailto:ombriananyanzwa@gmail.com
 
 > *"The actuarial foundation, the CS degree, the PowerApps experience — they are not separate things. They are the same story, told in three chapters. Data Engineering is how I write the fourth."*
